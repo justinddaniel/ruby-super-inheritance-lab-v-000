@@ -4,7 +4,7 @@ class Student
     "Hey there! I'm so excited to learn stuff.\n"
   end
 
-  raise_hand
+  def raise_hand
     "Pick me!\n"
   end
 end
